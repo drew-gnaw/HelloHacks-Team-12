@@ -644,6 +644,7 @@ table.table td h2 span {
 }
 textarea.form-control {
 	height: auto;
+	border-radius: 50%;
 }
 .progress-example .progress {
 	margin-bottom: 1.5rem;
