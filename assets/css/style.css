@@ -440,8 +440,8 @@ table.table td h2 span {
 .btn-primary.active,
 .btn-primary:active,
 .open > .dropdown-toggle.btn-primary {
-	background-color: #009efb;
-	border: 1px solid #009efb;
+	background-color: #b497d6;
+	border: 1px solid #b497d6;
 	color: #fff;
 }
 .btn-primary.active.focus,
@@ -453,14 +453,14 @@ table.table td h2 span {
 .open > .dropdown-toggle.btn-primary.focus,
 .open > .dropdown-toggle.btn-primary:focus,
 .open > .dropdown-toggle.btn-primary:hover {
-	background-color: #009efb;
-	border: 1px solid #009efb;
+	background-color: #b497d6;
+	border: 1px solid #b497d6;
 }
 .btn-primary.active:not(:disabled):not(.disabled),
 .btn-primary:active:not(:disabled):not(.disabled),
 .show > .btn-primary.dropdown-toggle {
-	background-color: #009efb;
-	border-color: #009efb;
+	background-color: #b497d6;
+	border-color: #b497d6;
 	color: #fff;
 }
 .btn-outline-primary {
