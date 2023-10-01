@@ -56,7 +56,7 @@ Version      : 1.0
 	1. General
 -----------------------*/
 
-@import url('https://fonts.googleapis.com/css?family=Rubik:400,500,700');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@300&display=swap');
 html {
 	height: 100%;
 }
@@ -104,7 +104,7 @@ a:hover,
 a:active,
 a:focus {
 	text-decoration: none;
-	color: #009ce7;
+	color: #B497D6;
 	outline: none;
 }
 .form-control {
@@ -116,12 +116,12 @@ a:focus {
 	min-height: 40px;
 }
 .form-control:focus {
-	border-color: #009efb;
+	border-color: #B497D6;
 	box-shadow: none;
 	outline: 0 none;
 }
 a {
-	color: #009ce7;
+	color: #B497D6;
 }
 input,
 button,
@@ -386,7 +386,7 @@ table.table td h2 span {
 }
 .bg-primary,
 .badge-primary {
-	background-color: #009efb !important;
+	background-color: #B497D6 !important;
 }
 .bg-success,
 .badge-success {
@@ -394,7 +394,7 @@ table.table td h2 span {
 }
 .bg-info,
 .badge-info {
-	background-color: #009efb !important;
+	background-color: #B497D6 !important;
 }
 .bg-warning,
 .badge-warning {
@@ -402,14 +402,14 @@ table.table td h2 span {
 }
 .bg-danger,
 .badge-danger {
-	background-color: #f62d51 !important;
+	background-color: #05204A !important;
 }
 .bg-white {
 	background-color: #fff;
 }
 .text-primary,
 .dropdown-menu > li > a.text-primary {
-	color: #009efb !important;
+	color: #B497D6 !important;
 }
 .text-success,
 .dropdown-menu > li > a.text-success {
@@ -417,7 +417,7 @@ table.table td h2 span {
 }
 .text-danger,
 .dropdown-menu > li > a.text-danger {
-	color: #f62d51;
+	color: #05204A;
 }
 .text-info,
 .dropdown-menu > li > a.text-info {
@@ -702,7 +702,7 @@ textarea.form-control {
 -----------------------*/
 
 .header {
-	background-color: #009efb;
+	background-color: #B497D6;
 	left: 0;
 	position: fixed;
 	right: 0;
@@ -796,7 +796,7 @@ textarea.form-control {
 	min-width: 136px;
 }
 .user-menu .bg-primary {
-	background-color: #009efb !important;
+	background-color: #05204A !important;
 }
 .status {
 	background-color: #ccc;
@@ -806,7 +806,7 @@ textarea.form-control {
 	width: 10px;
 }
 .status.online {
-	background-color: #55ce63;
+	background-color: #05204A;
 }
 .status.offline {
 	background-color: #f62d51;
@@ -824,7 +824,7 @@ textarea.form-control {
 	top: 50px;
 	width: 230px;
 	z-index: 1039;
-	background-color: #fff;
+	background-color: #E1E2EF;
 	bottom: 0;
 	margin-top: 0px;
 	position: fixed;
@@ -847,31 +847,21 @@ textarea.form-control {
 	padding: 0;
 }
 .sidebar-menu li a {
-	color: #888;
+	color: #05204A;
 	display: block;
 	font-size: 15px;
 	height: auto;
 	padding: 0 20px;
 }
 .sidebar-menu li a:hover {
-	color: #009efb;
+	color: #02020A;
 }
 .sidebar-menu li.active a {
-	color: #009efb;
+	color: #B497D6;
 	background-color: #f3f3f3;
 }
-.menu-title {
-	color: #333;
-	font-size: 15px;
-	font-weight: 500;
-	padding: 12px 20px;
-}
-.menu-title > i {
-	float: right;
-	line-height: 40px;
-}
 .sidebar-menu li.menu-title a {
-	color: #009efb;
+	color: #B497D6;
 	display: inline-block;
 	float: right;
 	padding: 0;
@@ -885,7 +875,7 @@ textarea.form-control {
 	margin-bottom: 15px;
 }
 .sidebar-menu ul ul a.active {
-	color: #009efb;
+	color: #B497D6;
 	text-decoration: underline;
 }
 .mobile-user-menu {
@@ -914,7 +904,7 @@ textarea.form-control {
 }
 .profile-rightbar {
 	display: none !important;
-	color: #009efb;
+	color: #B497D6;
 	font-size: 26px;
 	margin-left: 15px;
 }
