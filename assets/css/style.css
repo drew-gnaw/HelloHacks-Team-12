@@ -708,12 +708,12 @@ textarea.form-control {
 	right: 0;
 	top: 0;
 	z-index: 1039;
-	height: 50px;
+	height: 70px;
 	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 .header .header-left {
 	float: left;
-	height: 50px;
+	height: 70px;
 	padding: 0 20px;
 	position: relative;
 	text-align: center;
@@ -725,6 +725,7 @@ textarea.form-control {
 	display: flex;
 	height: 50px;
 	justify-content: center;
+
 }
 .logo span {
 	color: #fff;
@@ -736,6 +737,8 @@ textarea.form-control {
 	position: absolute;
 	right: 7px;
 	top: 4px;
+
+	
 }
 .header .dropdown-menu > li > a {
 	position: relative;
@@ -769,6 +772,7 @@ textarea.form-control {
 	line-height: 50px;
 	padding: 0 15px;
 	height: 50px;
+	vertical-align: middle;
 }
 .user-menu.nav > li > a:hover,
 .user-menu.nav > li > a:focus {
@@ -821,7 +825,7 @@ textarea.form-control {
 
 .sidebar {
 	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
-	top: 50px;
+	top: 70px;
 	width: 230px;
 	z-index: 1039;
 	background-color: #E1E2EF;
